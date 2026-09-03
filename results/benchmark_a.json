@@ -1,1 +1,21 @@
-{}
+{
+    "model": "microsoft/deberta-v3-base",
+    "best_hyperparameters": {
+        "Trial": 4,
+        "Learning Rate": 5e-05,
+        "Batch Size": 4,
+        "Epochs": 3,
+        "Weight Decay": 0.01,
+        "Validation Precision": 0.5132743362831859,
+        "Validation Recall": 0.58,
+        "Validation F1": 0.5446009389671361,
+        "Validation Accuracy": 0.916342082980525,
+        "Training Time (seconds)": 92.9684956073761
+    },
+    "best_validation_f1": 0.5446009389671361,
+    "test_loss": 0.2687850594520569,
+    "test_precision": 0.5504587155963303,
+    "test_recall": 0.6122448979591837,
+    "test_f1": 0.5797101449275363,
+    "test_accuracy": 0.9271315267680106
+}
