@@ -1,0 +1,32 @@
+# Core data / notebook
+jupyter
+ipykernel
+pandas
+numpy
+matplotlib
+scikit-learn
+
+# Kaggle
+kagglehub
+
+# Hugging Face / NER
+datasets
+transformers
+accelerate
+torch
+seqeval
+
+# Resume / document processing
+PyMuPDF
+python-docx
+Pillow
+
+# OCR Python integration
+pytesseract
+
+# Semantic / similar-entity search
+sentence-transformers
+rapidfuzz
+
+# DMS UI
+streamlit
