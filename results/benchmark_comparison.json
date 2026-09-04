@@ -1,0 +1,19 @@
+{
+    "benchmark_a": {
+        "model": "microsoft/deberta-v3-base",
+        "precision": 0.5504587155963303,
+        "recall": 0.6122448979591837,
+        "f1": 0.5797101449275363,
+        "accuracy": 0.9271315267680106
+    },
+    "benchmark_b": {
+        "model": "roberta-base",
+        "precision": 0.4435146443514644,
+        "recall": 0.47533632286995514,
+        "f1": 0.4588744588744589,
+        "accuracy": 0.9309805455078698
+    },
+    "selection_metric": "F1",
+    "winner": "DeBERTa-v3-base",
+    "winner_f1": 0.5797101449275363
+}
